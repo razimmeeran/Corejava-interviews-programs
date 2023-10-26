@@ -9,6 +9,7 @@ public class BasicStarProgram {
 			for(j=Row-i; j>1; j--)
 			{
 				System.out.print(" ");	
+				//System.out.print("J = "+j);
 			}
 			for(j=0;j<=i;j++)
 			{
